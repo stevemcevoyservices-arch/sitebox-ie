@@ -1,5 +1,13 @@
 # Sitebox.ie Fixed Deploy Package
 
-Build fix: lucide-react removed. Uses only React, Vite, and Tailwind.
+Build fix: supplier email body string has been repaired.
 
-Vercel: Framework Vite, Build command npm run build, Output directory dist.
+Tested locally with:
+
+npm install
+npm run build
+
+Vercel settings:
+- Framework: Vite
+- Build command: npm run build
+- Output directory: dist
