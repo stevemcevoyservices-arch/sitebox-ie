@@ -1,3 +1,5 @@
-# Sitebox.ie Vercel Deploy Package
+# Sitebox.ie Fixed Deploy Package
 
-This package is set up for test mode. Payments are not connected yet.
+Build fix: lucide-react removed. Uses only React, Vite, and Tailwind.
+
+Vercel: Framework Vite, Build command npm run build, Output directory dist.
